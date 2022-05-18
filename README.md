@@ -2,7 +2,7 @@
 ### Bem vindo ao meu perfil do GitHub! 👋
 
 
-### Algumas informações relevantes sobre mim:
+#### Algumas informações relevantes sobre mim:
 
 - 🔭 Atualmente estou trabalhando com equipamentos Cisco, tanto na parte de Hardware como na parte de implementações utilizando APIs desses equipamentos
 - 🌱 Infelizmente, a maior parte dos projetos em que participei/participo estão privados, mas mudar esse cenários...
