@@ -11,7 +11,7 @@
 - 💻  Estou trabalhando mais com Python e JS nos ultimos meses, embora já tenha tido contato com C++ e PHP
 - 💬  No mundo do JS, trabalho com React, Node e, agora, React Native
 - 💬  Enquanto no mundo do Python, tenho investido tempo em Machine Learning (Pytorch) e Data Science (Pandas, Numpy, entre outros)
-- 📍  Sou um entusiasta por tecnologia, portanto estou sempre aprendendo novas tecnologias, então essa lista muda constantemente.
+- 📍  Sou um entusiasta por tecnologia, portanto estou sempre aprendendo novas tecnologias, de forma que essa lista muda constantemente.
 
 <br/>
 
