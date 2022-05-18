@@ -11,7 +11,7 @@
 - 🤔 No mundo do JS, trabalho com React, Node e, agora, React Native
 - 💬 Enquanto no mundo do Python, tenho investido tempo em Machine Learning (Pytorch) e Data Sciece (Pandas, Numpy, entre outros)
 - 📫 Sou um entusiasta por tecnologia, portanto estou sempre aprendendo novas tecnologias, então essa lista muda constantemente.
-<br><\br>
+<br/>
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonHenrique7&layout=compact&langs_count=7&theme=dracula"/>
