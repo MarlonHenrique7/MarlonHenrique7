@@ -5,8 +5,7 @@
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonhenrique7&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marlonhenrique7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonhenrique7&show_icons=true)
 </div>
 
 #### Algumas informações relevantes sobre mim:
