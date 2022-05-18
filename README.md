@@ -5,12 +5,13 @@
 
 #### Algumas informações relevantes sobre mim:
 
-- 🔭 Atualmente estou trabalhando com equipamentos Cisco, tanto na parte de Hardware como na parte de implementações utilizando APIs desses equipamentos
-- 🌱 Infelizmente, a maior parte dos projetos em que participei/participo estão privados, mas mudar esse cenários...
-- 👯 Estou trabalhando mais com Python e JS nos ultimos meses, embora já tenha tido contato com C++ e PHP
-- 🤔 No mundo do JS, trabalho com React, Node e, agora, React Native
-- 💬 Enquanto no mundo do Python, tenho investido tempo em Machine Learning (Pytorch) e Data Science (Pandas, Numpy, entre outros)
-- 📫 Sou um entusiasta por tecnologia, portanto estou sempre aprendendo novas tecnologias, então essa lista muda constantemente.
+- 👨‍🎓  Sou estudante, quase formado, de Engenheria Elétrica na UnB
+- 👨‍💼  Atualmente estou trabalhando com equipamentos Cisco, tanto na parte de Hardware como na parte de integrações utilizando APIs dos equipamentos Cisco
+- 🤔  Infelizmente, a maior parte dos projetos em que participei/participo estão privados, mas pretendo implementar esse cenários...
+- 💻  Estou trabalhando mais com Python e JS nos ultimos meses, embora já tenha tido contato com C++ e PHP
+- 💬  No mundo do JS, trabalho com React, Node e, agora, React Native
+- 💬  Enquanto no mundo do Python, tenho investido tempo em Machine Learning (Pytorch) e Data Science (Pandas, Numpy, entre outros)
+- 📍  Sou um entusiasta por tecnologia, portanto estou sempre aprendendo novas tecnologias, então essa lista muda constantemente.
 
 <br/>
 
