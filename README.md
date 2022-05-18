@@ -5,7 +5,7 @@
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marlonhenrique7&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarlonHenrique7)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 #### Algumas informações relevantes sobre mim:
