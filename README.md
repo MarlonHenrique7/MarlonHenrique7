@@ -3,6 +3,12 @@
 
 <!-- ![Snake animation](https://github.com/MarlonHenrique7/MarlonHenrique7/blob/output/github-contribution-grid-snake.svg) -->
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonHenrique7&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonHenrique7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 #### Algumas informações relevantes sobre mim:
 
 - 🔭 Atualmente estou trabalhando com equipamentos Cisco, tanto na parte de Hardware como na parte de implementações utilizando APIs desses equipamentos
