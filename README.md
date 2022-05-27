@@ -1,7 +1,7 @@
 ## Olá, me chamo Marlon Henrique.
 ### Bem vindo ao meu perfil do GitHub! 👋
 
-<!-- ![Snake animation](https://github.com/MarlonHenrique7/MarlonHenrique7/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/MarlonHenrique7/MarlonHenrique7/blob/output/github-contribution-grid-snake.svg)
 
 #### Algumas informações relevantes sobre mim:
 
@@ -18,7 +18,7 @@
 <div>
 <a href="https://github.com/MarlonHenrique7">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonHenrique7&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonHenrique7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonHenrique7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
 </div>
 
 ### Ferramentas e Tecnologias
