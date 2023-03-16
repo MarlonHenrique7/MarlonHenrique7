@@ -13,8 +13,6 @@
 - 💬 Também venho trabalhando bastante com ambiente Cloud, especialmente a AWS, usandos serviços como o DynamoDB, Cognito, SQS, QLDB, entre outros; e
 - 📍  Além disso, também trago uma ampla bagagem de redes de comunicações, especialmente com equipamentos Ciscos (WLC, Switches, APs e Cyber Vision).
 
-Algumas informações relevantes sobre mim:
-
 Sou um entusiasta por tecnologia, portanto, estou sempre aprendendo novas tecnologias, de modo que essa lista muda constantemente.
 
 <br/>
