@@ -10,7 +10,7 @@
 - 💻 Experiência trabalhando com Python e JavaScript (TypeScript);
 - 💬 Com JS, trabalho com React e Next no front-end e com Express e Nest na parte do back-end;
 - 💬 Enquanto no mundo do Python, tenho investido tempo em Machine Learning (Pytorch), Data Science (Pandas, Numpy, entre outros) e com Desenvolvimento Web (Flask); 
-- 💬 Também venho trabalhando bastante com ambiente Cloud, especialmente a AWS, usandos serviços como o DynamoDB, Cognito, SQS, QLDB, entre outros; e
+- 💬 Também venho trabalhando bastante com ambiente Cloud, especialmente a AWS, usandos serviços como o DynamoDB (Banco NoSQL), Cognito, SQS, QLDB, entre outros; e
 - 📍  Além disso, também trago uma ampla bagagem de redes de comunicações, especialmente com equipamentos Ciscos (WLC, Switches, APs e Cyber Vision).
 
 Sou um entusiasta por tecnologia, portanto, estou sempre aprendendo novas tecnologias, de modo que essa lista muda constantemente.
