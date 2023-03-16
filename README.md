@@ -5,12 +5,17 @@
 
 #### Algumas informações relevantes sobre mim:
 
-- 👨‍🎓  Sou estudante, quase formado, de Engenheria Elétrica na UnB.
-- 🤔  Infelizmente, a maior parte dos projetos em que participei/participo estão privados, mas pretendo mudar esse cenário...
-- 💻  Estou trabalhando mais com Python e JS nos ultimos meses, embora já tenha tido contato com C++ e PHP.
-- 💬  No mundo do JS, trabalho com React, Node e, agora, React Native.
-- 💬  Enquanto no mundo do Python, tenho investido tempo em Machine Learning (Pytorch), Data Science (Pandas, Numpy, entre outros) e com Desenvolvimento Web (Flask).
-- 📍  Sou um entusiasta por tecnologia, portanto estou sempre aprendendo novas tecnologias, de forma que essa lista muda constantemente.
+- 👨‍🎓 Formado pela UnB em Engenharia Elétrica;
+- 🤔 Infelizmente, a maior parte dos projetos em que participei/participo estão privados, mas pretendo mudar esse cenário...
+- 💻 Experiência trabalhando com Python e JavaScript (TypeScript);
+- 💬 Com JS, trabalho com React e Next no front-end e com Express e Nest na parte do back-end;
+- 💬 Enquanto no mundo do Python, tenho investido tempo em Machine Learning (Pytorch), Data Science (Pandas, Numpy, entre outros) e com Desenvolvimento Web (Flask); 
+- 💬 Também venho trabalhando bastante com ambiente Cloud, especialmente a AWS, usandos serviços como o DynamoDB, Cognito, SQS, QLDB, entre outros; e
+- 📍  Além disso, também trago uma ampla bagagem de redes de comunicações, especialmente com equipamentos Ciscos (WLC, Switches, APs e Cyber Vision).
+
+Algumas informações relevantes sobre mim:
+
+Sou um entusiasta por tecnologia, portanto, estou sempre aprendendo novas tecnologias, de modo que essa lista muda constantemente.
 
 <br/>
 
