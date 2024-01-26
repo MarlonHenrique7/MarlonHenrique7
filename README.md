@@ -3,25 +3,34 @@
 
 <!-- ![Snake animation](https://github.com/MarlonHenrique7/MarlonHenrique7/blob/output/github-contribution-grid-snake.svg) --> 
 
-#### Algumas informações relevantes sobre mim:
+🚀 Engenheiro Eletricista apaixonado por Tecnologia 🤖
 
-- 👨‍🎓 Formado pela UnB em Engenharia Elétrica;
-- 🤔 Infelizmente, a maior parte dos projetos em que participei/participo estão privados, mas pretendo mudar esse cenário...
-- 💻 Experiência trabalhando com Python e JavaScript (TypeScript);
-- 💬 Com JS, trabalho com React e Next no front-end e com Express e Nest na parte do back-end;
-- 💬 Enquanto no mundo do Python, tenho investido tempo em Machine Learning (Pytorch), Data Science (Pandas, Numpy, entre outros) e com Desenvolvimento Web (Flask); 
-- 💬 Também venho trabalhando bastante com ambiente Cloud, especialmente a AWS, usando serviços como o DynamoDB (Banco NoSQL), Lambda, Cognito, SQS, QLDB, entre outros; e
-- 📍  Além disso, também trago uma ampla bagagem de redes de comunicações, especialmente com equipamentos Ciscos (WLC, Switches, APs e Cyber Vision).
+Olá! Sou formado pela UnB em Engenharia Elétrica e estou em constante busca por desafios empolgantes no mundo da tecnologia. Aqui estão alguns aspectos marcantes da minha jornada:
 
-Sou um entusiasta por tecnologia, portanto, estou sempre aprendendo novas tecnologias, de modo que essa lista muda constantemente.
+🎓 Formação Acadêmica:
 
-<br/>
+Graduado em Engenharia Elétrica pela Universidade de Brasília (UnB).
 
-<div>
-<a href="https://github.com/MarlonHenrique7">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonHenrique7&layout=compact&langs_count=7&theme=dracula"/>
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarlonHenrique7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
-</div>
+💻 Experiência Técnica:
+
+Desenvolvimento proficientemente em Python e JavaScript (TypeScript).
+Front-end: Trabalho com React e Next.js.
+Back-end: Utilizo Express e Nest para criar aplicações robustas.
+Mergulhando no mundo do Python: Machine Learning (PyTorch), Data Science (Pandas, Numpy), e Desenvolvimento Web (Flask).
+
+☁️ Experiência em Nuvem:
+
+Especializado na AWS, explorando serviços como DynamoDB (Banco NoSQL), Lambda, Cognito, SQS, QLDB, entre outros.
+
+🛠️ Infraestrutura de Rede:
+
+Amplia experiência com equipamentos Cisco, incluindo WLC, Switches, APs e Cyber Vision.
+
+🌐 Mente Inquieta por Tecnologia:
+
+Enthusiasta incansável por tecnologia, sempre aprendendo e atualizando-me com as últimas tendências do setor.
+
+Vamos conectar e compartilhar conhecimento! Estou aberto a oportunidades incríveis e colaborações inovadoras. 👋🏽💡
 
 ### Ferramentas e Tecnologias
 
