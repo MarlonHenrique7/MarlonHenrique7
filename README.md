@@ -24,7 +24,7 @@ Experiência ampla na AWS, explorando serviços como DynamoDB (Banco NoSQL), Lam
 
 🛠️ Infraestrutura de Rede:
 
-Amplia experiência com equipamentos Cisco, incluindo WLC, Switches, APs e Cyber Vision.
+Ampla experiência com equipamentos Cisco, incluindo WLC, Switches, APs e Cyber Vision.
 
 🌐 Mente Inquieta por Tecnologia:
 
