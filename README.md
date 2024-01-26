@@ -5,7 +5,7 @@
 
 🚀 Engenheiro Eletricista apaixonado por Tecnologia 🤖
 
-Olá! Sou formado pela UnB em Engenharia Elétrica e estou em constante busca por desafios empolgantes no mundo da tecnologia. Aqui estão alguns aspectos marcantes da minha jornada:
+Sou formado pela UnB em Engenharia Elétrica e estou em constante busca por desafios empolgantes no mundo da tecnologia. Aqui estão alguns aspectos marcantes da minha jornada:
 
 🎓 Formação Acadêmica:
 
