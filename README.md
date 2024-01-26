@@ -20,7 +20,7 @@ Mergulhando no mundo do Python: Machine Learning (PyTorch), Data Science (Pandas
 
 ☁️ Experiência em Nuvem:
 
-Especializado na AWS, explorando serviços como DynamoDB (Banco NoSQL), Lambda, Cognito, SQS, QLDB, entre outros.
+Experiência ampla na AWS, explorando serviços como DynamoDB (Banco NoSQL), Lambda, Cognito, SQS, QLDB, entre outros. Além disso, vasta utilização do framework serverless para subir todos serviços necessários na AWS.
 
 🛠️ Infraestrutura de Rede:
 
@@ -28,7 +28,7 @@ Amplia experiência com equipamentos Cisco, incluindo WLC, Switches, APs e Cyber
 
 🌐 Mente Inquieta por Tecnologia:
 
-Enthusiasta incansável por tecnologia, sempre aprendendo e atualizando-me com as últimas tendências do setor.
+Entusiasta incansável por tecnologia, sempre aprendendo e atualizando-me com as últimas tendências do setor.
 
 Vamos conectar e compartilhar conhecimento! Estou aberto a oportunidades incríveis e colaborações inovadoras. 👋🏽💡
 
